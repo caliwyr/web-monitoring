@@ -43,13 +43,8 @@ jobs:
     # Step 3: Display a sample message based on the sync output var 'has_new_commits'
     - name: New commits found
       if: steps.sync.outputs.has_new_commits == 'true'
-      run: echo "New commits were found to sync."|-
-        git config user.name "caliwyr"
-        git config user.email "60120589+caliwyr@users.noreply.github.com"
-        git add -A
-        timestamp=$(date '+%F %H:%M:%S %Z')
-        git commit -m "Update Data ${timestamp}" || exit 0
-        git push
+      run: echo "New commits were found to sync."
+      git push origin main --force
     
     - name: No new commits
       if: steps.sync.outputs.has_new_commits == 'false'
