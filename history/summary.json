@@ -544,7 +544,7 @@
     "url": "https://hoster.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/hoster.co.id.ico",
     "slug": "hoster-co-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -768,7 +768,7 @@
     "uptimeYear": "100.00%",
     "time": 3079,
     "timeDay": 2743,
-    "timeWeek": 3419,
+    "timeWeek": 2743,
     "timeMonth": 3103,
     "timeYear": 3042,
     "dailyMinutesDown": {}
@@ -786,7 +786,7 @@
     "uptimeYear": "100.00%",
     "time": 1259,
     "timeDay": 1226,
-    "timeWeek": 1277,
+    "timeWeek": 1236,
     "timeMonth": 1260,
     "timeYear": 1299,
     "dailyMinutesDown": {}
@@ -895,7 +895,7 @@
     "time": 10783,
     "timeDay": 7884,
     "timeWeek": 7945,
-    "timeMonth": 7859,
+    "timeMonth": 8002,
     "timeYear": 10771,
     "dailyMinutesDown": {}
   },
@@ -1001,7 +1001,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7659,
-    "timeDay": 5336,
+    "timeDay": 3291,
     "timeWeek": 5348,
     "timeMonth": 4929,
     "timeYear": 7487,
@@ -1722,7 +1722,7 @@
     "uptimeYear": "100.00%",
     "time": 3342,
     "timeDay": 3428,
-    "timeWeek": 2887,
+    "timeWeek": 2749,
     "timeMonth": 3987,
     "timeYear": 3412,
     "dailyMinutesDown": {}
@@ -1777,8 +1777,8 @@
     "time": 3326,
     "timeDay": 3453,
     "timeWeek": 4100,
-    "timeMonth": 3940,
-    "timeYear": 3973,
+    "timeMonth": 3822,
+    "timeYear": 3988,
     "dailyMinutesDown": {}
   },
   {
@@ -1865,7 +1865,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2332,
-    "timeDay": 11805,
+    "timeDay": 1350,
     "timeWeek": 9338,
     "timeMonth": 4825,
     "timeYear": 2163,
