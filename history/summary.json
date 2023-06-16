@@ -4,17 +4,17 @@
     "url": "https://www.000webhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.000webhost.com.ico",
     "slug": "000webhost-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 3854,
-    "timeWeek": 1777,
-    "timeMonth": 2082,
-    "timeYear": 374,
+    "timeDay": 3042,
+    "timeWeek": 1647,
+    "timeMonth": 2046,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -463,7 +463,7 @@
     "time": 2879,
     "timeDay": 2373,
     "timeWeek": 2479,
-    "timeMonth": 2744,
+    "timeMonth": 2751,
     "timeYear": 2891,
     "dailyMinutesDown": {}
   },
@@ -1508,7 +1508,7 @@
     "timeDay": 3289,
     "timeWeek": 3033,
     "timeMonth": 3068,
-    "timeYear": 3857,
+    "timeYear": 3856,
     "dailyMinutesDown": {}
   },
   {
