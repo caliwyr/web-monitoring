@@ -804,7 +804,7 @@
     "uptimeYear": "100.00%",
     "time": 3140,
     "timeDay": 2340,
-    "timeWeek": 5465,
+    "timeWeek": 2400,
     "timeMonth": 3911,
     "timeYear": 2979,
     "dailyMinutesDown": {}
@@ -994,17 +994,17 @@
     "url": "https://sintegrasi.com",
     "icon": "https://icons.duckduckgo.com/ip3/sintegrasi.com.ico",
     "slug": "sintegrasi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7665,
-    "timeDay": 6627,
-    "timeWeek": 5636,
-    "timeMonth": 4991,
-    "timeYear": 7500,
+    "time": 7659,
+    "timeDay": 5336,
+    "timeWeek": 5348,
+    "timeMonth": 4929,
+    "timeYear": 7487,
     "dailyMinutesDown": {}
   },
   {
@@ -1706,7 +1706,7 @@
     "timeDay": 3412,
     "timeWeek": 3237,
     "timeMonth": 3266,
-    "timeYear": 5779,
+    "timeYear": 5781,
     "dailyMinutesDown": {}
   },
   {
