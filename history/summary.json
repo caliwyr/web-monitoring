@@ -444,9 +444,9 @@
     "uptimeYear": "100.00%",
     "time": 784,
     "timeDay": 697,
-    "timeWeek": 877,
+    "timeWeek": 913,
     "timeMonth": 974,
-    "timeYear": 805,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   },
   {
@@ -886,7 +886,7 @@
     "url": "https://puskomedia.id",
     "icon": "https://icons.duckduckgo.com/ip3/puskomedia.id.ico",
     "slug": "puskomedia-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1001,7 +1001,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7661,
-    "timeDay": 3202,
+    "timeDay": 3649,
     "timeWeek": 5372,
     "timeMonth": 4814,
     "timeYear": 7474,
@@ -1165,7 +1165,7 @@
     "time": 3146,
     "timeDay": 4545,
     "timeWeek": 3680,
-    "timeMonth": 3351,
+    "timeMonth": 3337,
     "timeYear": 3279,
     "dailyMinutesDown": {}
   },
