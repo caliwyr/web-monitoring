@@ -31,7 +31,7 @@
     "time": 4557,
     "timeDay": 2956,
     "timeWeek": 2683,
-    "timeMonth": 2829,
+    "timeMonth": 2841,
     "timeYear": 3362,
     "dailyMinutesDown": {}
   },
@@ -158,7 +158,7 @@
     "timeDay": 10489,
     "timeWeek": 5986,
     "timeMonth": 6388,
-    "timeYear": 7402,
+    "timeYear": 7399,
     "dailyMinutesDown": {}
   },
   {
@@ -283,7 +283,7 @@
     "time": 1916,
     "timeDay": 2999,
     "timeWeek": 3308,
-    "timeMonth": 2538,
+    "timeMonth": 2541,
     "timeYear": 2078,
     "dailyMinutesDown": {}
   },
@@ -536,7 +536,7 @@
     "timeDay": 1170,
     "timeWeek": 1680,
     "timeMonth": 1630,
-    "timeYear": 1436,
+    "timeYear": 1434,
     "dailyMinutesDown": {}
   },
   {
@@ -553,7 +553,7 @@
     "time": 2391,
     "timeDay": 2778,
     "timeWeek": 2789,
-    "timeMonth": 2741,
+    "timeMonth": 2753,
     "timeYear": 2395,
     "dailyMinutesDown": {}
   },
@@ -859,7 +859,7 @@
     "time": 2930,
     "timeDay": 3441,
     "timeWeek": 3731,
-    "timeMonth": 3445,
+    "timeMonth": 3435,
     "timeYear": 3266,
     "dailyMinutesDown": {}
   },
@@ -877,7 +877,7 @@
     "time": 3545,
     "timeDay": 4415,
     "timeWeek": 3665,
-    "timeMonth": 3573,
+    "timeMonth": 3574,
     "timeYear": 3610,
     "dailyMinutesDown": {}
   },
@@ -994,17 +994,17 @@
     "url": "https://sintegrasi.com",
     "icon": "https://icons.duckduckgo.com/ip3/sintegrasi.com.ico",
     "slug": "sintegrasi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7661,
-    "timeDay": 3649,
-    "timeWeek": 5372,
-    "timeMonth": 4814,
-    "timeYear": 7474,
+    "time": 7657,
+    "timeDay": 4045,
+    "timeWeek": 5287,
+    "timeMonth": 4804,
+    "timeYear": 7465,
     "dailyMinutesDown": {}
   },
   {
@@ -1615,7 +1615,7 @@
     "time": 4132,
     "timeDay": 5600,
     "timeWeek": 5533,
-    "timeMonth": 5211,
+    "timeMonth": 5242,
     "timeYear": 4413,
     "dailyMinutesDown": {}
   },
@@ -1866,7 +1866,7 @@
     "uptimeYear": "100.00%",
     "time": 2326,
     "timeDay": 1462,
-    "timeWeek": 9350,
+    "timeWeek": 8477,
     "timeMonth": 4832,
     "timeYear": 2151,
     "dailyMinutesDown": {}
