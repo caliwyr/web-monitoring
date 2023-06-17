@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 356,
+    "timeDay": 337,
     "timeWeek": 1355,
     "timeMonth": 1949,
     "timeYear": 375,
@@ -1678,17 +1678,17 @@
     "url": "https://myrepublic.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/myrepublic.co.id.ico",
     "slug": "myrepublic-co-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2225,
-    "timeDay": 3066,
-    "timeWeek": 4155,
-    "timeMonth": 2666,
-    "timeYear": 2304,
+    "time": 2226,
+    "timeDay": 2786,
+    "timeWeek": 3985,
+    "timeMonth": 2649,
+    "timeYear": 2303,
     "dailyMinutesDown": {}
   },
   {
@@ -1760,7 +1760,7 @@
     "timeDay": 2434,
     "timeWeek": 2486,
     "timeMonth": 2207,
-    "timeYear": 2393,
+    "timeYear": 2394,
     "dailyMinutesDown": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "timeDay": 1462,
     "timeWeek": 8477,
     "timeMonth": 4832,
-    "timeYear": 2152,
+    "timeYear": 2146,
     "dailyMinutesDown": {}
   }
 ]
