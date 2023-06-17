@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 267,
+    "timeDay": 356,
     "timeWeek": 1355,
     "timeMonth": 1949,
     "timeYear": 375,
@@ -137,7 +137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 776,
+    "timeDay": 901,
     "timeWeek": 792,
     "timeMonth": 828,
     "timeYear": 803,
@@ -462,7 +462,7 @@
     "uptimeYear": "100.00%",
     "time": 2879,
     "timeDay": 2841,
-    "timeWeek": 2570,
+    "timeWeek": 2592,
     "timeMonth": 2550,
     "timeYear": 2892,
     "dailyMinutesDown": {}
@@ -499,7 +499,7 @@
     "time": 4781,
     "timeDay": 4316,
     "timeWeek": 5016,
-    "timeMonth": 4644,
+    "timeMonth": 4669,
     "timeYear": 5085,
     "dailyMinutesDown": {}
   },
@@ -517,7 +517,7 @@
     "time": 2953,
     "timeDay": 2871,
     "timeWeek": 2669,
-    "timeMonth": 2463,
+    "timeMonth": 2465,
     "timeYear": 2826,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 1389,
     "timeDay": 1170,
     "timeWeek": 1680,
-    "timeMonth": 1652,
+    "timeMonth": 1671,
     "timeYear": 1431,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 2391,
     "timeDay": 2606,
     "timeWeek": 2789,
-    "timeMonth": 2753,
+    "timeMonth": 2763,
     "timeYear": 2395,
     "dailyMinutesDown": {}
   },
@@ -894,7 +894,7 @@
     "uptimeYear": "100.00%",
     "time": 10543,
     "timeDay": 9954,
-    "timeWeek": 8671,
+    "timeWeek": 8778,
     "timeMonth": 8166,
     "timeYear": 10770,
     "dailyMinutesDown": {}
@@ -968,7 +968,7 @@
     "timeDay": 3068,
     "timeWeek": 2942,
     "timeMonth": 2930,
-    "timeYear": 3074,
+    "timeYear": 3078,
     "dailyMinutesDown": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1627,
-    "timeDay": 1686,
+    "timeDay": 1786,
     "timeWeek": 2248,
     "timeMonth": 1765,
     "timeYear": 1687,
@@ -1678,14 +1678,14 @@
     "url": "https://myrepublic.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/myrepublic.co.id.ico",
     "slug": "myrepublic-co-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2224,
-    "timeDay": 7066,
+    "time": 2225,
+    "timeDay": 3066,
     "timeWeek": 4155,
     "timeMonth": 2666,
     "timeYear": 2304,
@@ -1760,7 +1760,7 @@
     "timeDay": 2434,
     "timeWeek": 2486,
     "timeMonth": 2207,
-    "timeYear": 2390,
+    "timeYear": 2393,
     "dailyMinutesDown": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "timeDay": 1462,
     "timeWeek": 8477,
     "timeMonth": 4832,
-    "timeYear": 2151,
+    "timeYear": 2152,
     "dailyMinutesDown": {}
   }
 ]
