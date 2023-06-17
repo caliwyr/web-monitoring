@@ -535,8 +535,8 @@
     "time": 1389,
     "timeDay": 1170,
     "timeWeek": 1680,
-    "timeMonth": 1630,
-    "timeYear": 1429,
+    "timeMonth": 1652,
+    "timeYear": 1431,
     "dailyMinutesDown": {}
   },
   {
@@ -868,17 +868,17 @@
     "url": "https://portal.qwords.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.qwords.com.ico",
     "slug": "portal-qwords-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3531,
-    "timeDay": 1849,
-    "timeWeek": 2774,
-    "timeMonth": 3346,
-    "timeYear": 3586,
+    "time": 3532,
+    "timeDay": 2243,
+    "timeWeek": 2879,
+    "timeMonth": 3360,
+    "timeYear": 3587,
     "dailyMinutesDown": {}
   },
   {
@@ -1722,7 +1722,7 @@
     "uptimeYear": "100.00%",
     "time": 3342,
     "timeDay": 2661,
-    "timeWeek": 2800,
+    "timeWeek": 2861,
     "timeMonth": 3970,
     "timeYear": 3414,
     "dailyMinutesDown": {}
