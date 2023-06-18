@@ -1128,7 +1128,7 @@
     "uptimeYear": "100.00%",
     "time": 1625,
     "timeDay": 1586,
-    "timeWeek": 2225,
+    "timeWeek": 2428,
     "timeMonth": 1766,
     "timeYear": 1687,
     "dailyMinutesDown": {}
@@ -1858,17 +1858,17 @@
     "url": "https://sitemaya.com",
     "icon": "https://icons.duckduckgo.com/ip3/sitemaya.com.ico",
     "slug": "sitemaya-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2293,
-    "timeDay": 1496,
-    "timeWeek": 7368,
-    "timeMonth": 4763,
-    "timeYear": 2138,
+    "time": 2317,
+    "timeDay": 6190,
+    "timeWeek": 7824,
+    "timeMonth": 4993,
+    "timeYear": 2170,
     "dailyMinutesDown": {}
   }
 ]
