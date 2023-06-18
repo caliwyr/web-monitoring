@@ -139,7 +139,7 @@
     "time": 791,
     "timeDay": 839,
     "timeWeek": 787,
-    "timeMonth": 855,
+    "timeMonth": 857,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -643,7 +643,7 @@
     "time": 1749,
     "timeDay": 1734,
     "timeWeek": 1753,
-    "timeMonth": 1765,
+    "timeMonth": 1763,
     "timeYear": 1760,
     "dailyMinutesDown": {}
   },
@@ -1001,7 +1001,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7655,
-    "timeDay": 4252,
+    "timeDay": 4063,
     "timeWeek": 4901,
     "timeMonth": 4808,
     "timeYear": 7459,
@@ -1685,7 +1685,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2238,
-    "timeDay": 4035,
+    "timeDay": 5225,
     "timeWeek": 4487,
     "timeMonth": 2811,
     "timeYear": 2318,
@@ -1858,7 +1858,7 @@
     "url": "https://sitemaya.com",
     "icon": "https://icons.duckduckgo.com/ip3/sitemaya.com.ico",
     "slug": "sitemaya-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1868,7 +1868,7 @@
     "timeDay": 6190,
     "timeWeek": 7824,
     "timeMonth": 4993,
-    "timeYear": 2170,
+    "timeYear": 2165,
     "dailyMinutesDown": {}
   }
 ]
