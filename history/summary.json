@@ -212,7 +212,7 @@
     "timeDay": 2256,
     "timeWeek": 2272,
     "timeMonth": 2897,
-    "timeYear": 2678,
+    "timeYear": 2633,
     "dailyMinutesDown": {}
   },
   {
@@ -454,7 +454,7 @@
     "url": "https://hostingan.id",
     "icon": "https://icons.duckduckgo.com/ip3/hostingan.id.ico",
     "slug": "hostingan-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -875,10 +875,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3596,
-    "timeDay": 13508,
-    "timeWeek": 5471,
-    "timeMonth": 4172,
-    "timeYear": 3676,
+    "timeDay": 10915,
+    "timeWeek": 5292,
+    "timeMonth": 4145,
+    "timeYear": 3675,
     "dailyMinutesDown": {}
   },
   {
@@ -1722,7 +1722,7 @@
     "uptimeYear": "100.00%",
     "time": 3356,
     "timeDay": 2311,
-    "timeWeek": 3173,
+    "timeWeek": 3212,
     "timeMonth": 3938,
     "timeYear": 3430,
     "dailyMinutesDown": {}
@@ -1832,7 +1832,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2192,
+    "timeYear": 2193,
     "dailyMinutesDown": {}
   },
   {
@@ -1865,7 +1865,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2356,
-    "timeDay": 11355,
+    "timeDay": 9948,
     "timeWeek": 8836,
     "timeMonth": 5374,
     "timeYear": 2216,
