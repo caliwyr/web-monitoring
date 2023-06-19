@@ -454,17 +454,17 @@
     "url": "https://hostingan.id",
     "icon": "https://icons.duckduckgo.com/ip3/hostingan.id.ico",
     "slug": "hostingan-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2878,
-    "timeDay": 2459,
-    "timeWeek": 2504,
-    "timeMonth": 2549,
-    "timeYear": 2890,
+    "timeDay": 2457,
+    "timeWeek": 2497,
+    "timeMonth": 2547,
+    "timeYear": 2889,
     "dailyMinutesDown": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "timeDay": 9948,
     "timeWeek": 8836,
     "timeMonth": 5374,
-    "timeYear": 2216,
+    "timeYear": 2213,
     "dailyMinutesDown": {}
   }
 ]
