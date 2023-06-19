@@ -157,7 +157,7 @@
     "time": 7247,
     "timeDay": 3915,
     "timeWeek": 7876,
-    "timeMonth": 6836,
+    "timeMonth": 6935,
     "timeYear": 7405,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 1339,
     "timeDay": 1268,
     "timeWeek": 1311,
-    "timeMonth": 1275,
+    "timeMonth": 1278,
     "timeYear": 1412,
     "dailyMinutesDown": {}
   },
@@ -1858,7 +1858,7 @@
     "url": "https://sitemaya.com",
     "icon": "https://icons.duckduckgo.com/ip3/sitemaya.com.ico",
     "slug": "sitemaya-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
